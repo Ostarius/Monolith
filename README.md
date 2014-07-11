@@ -1,6 +1,10 @@
 Monolith
 ========
 
+VERY IMPORTANT: 
+ VIEW THIS FILE AS 'RAW' BECAUSE GITHUB IS RETARDED AND DOESNT SHOW THE FORMATTING ON NORMAL MODE. I'LL FIGURE IT OUT LATER JUST READ THE DAMN THING. 
+
+
 Mission statement:
   The purpose of this project is to develop an efficient form of categorization and recording of a given environment, in 
   relation to basic psychological principles, which will affect further means of classification. Once this has been 
@@ -20,7 +24,7 @@ Execution:
           give a certain desire to Monolith, filling certain categories as a priority.
     2.0 enviro.py
       - Thoughts
-          The environment shall consist of many 'thoughts'. Each thought shall be a numeric string, defining what categories 
+          The environment shall consist of many 'thoughts'. Each thought shall be a numeric string, defining what   categories 
           and the ratio of which it belongs to. These thoughts are randomly-generated and Monolith shall categorize them 
           according to their numeric string. 
       - Objects 
